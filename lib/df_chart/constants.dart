@@ -1,0 +1,1 @@
+const String DATA_SET_LABEL_CLOSE = 'close';
